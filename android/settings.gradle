@@ -1,0 +1,3 @@
+rootProject.name = 'Bai8FlexPhan1'
+
+include ':app'
